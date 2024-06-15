@@ -141,11 +141,11 @@ If you'd like to contribute to this project, please follow these guidelines:
 6. Finally, open a pull request on the original repository's main branch.
 
 #### Contibuting Guidelines 
-  We believe in the power of collaboration. If you have ideas to improve Consat-Ground-Station , feel free to contribute! Check out our [Contribution Guidelines]https://github.com/Gagan-Space/Cansat-Ground-Station/blob/main/CONTRIBUTING.md to get started.
+  We believe in the power of collaboration. If you have ideas to improve Consat-Ground-Station , feel free to contribute! Check out our [Contribution Guidelines](https://github.com/Gagan-Space/Cansat-Ground-Station/blob/main/CONTRIBUTING.md) to get started.
 
 ### 📄Documentation
 
-Explore our comprehensive documentation in the [LEARN.md]https://github.com/Gagan-Space/Cansat-Ground-Station/blob/main/Learn.md file, which serves as a detailed guide to understanding and contributing to Consat-Ground-Station. This document covers various aspects of the project, including setup instructions, architecture overview, and contribution guidelines. We recommend referring to this documentation to gain a deeper insight into UniCollab and make meaningful contributions to its development.
+Explore our comprehensive documentation in the [LEARN.md](https://github.com/Gagan-Space/Cansat-Ground-Station/blob/main/Learn.md) file, which serves as a detailed guide to understanding and contributing to Consat-Ground-Station. This document covers various aspects of the project, including setup instructions, architecture overview, and contribution guidelines. We recommend referring to this documentation to gain a deeper insight into UniCollab and make meaningful contributions to its development.
 
 
 ## License
@@ -170,7 +170,11 @@ Happy coding!
 <div align = "center">
  <h3>Thank you for contributing to our repository</h3>
 
-![Contributors](https://github.com/Gagan-Space/Cansat-Ground-Station/graphs/contributors)
+<a href="https://github.com/Gagan-Space/Cansat-Ground-Station/graphs/contributors">
+<img src="https://contributors-img.web.app/image?repo=Gagan-Space/Cansat-Ground-Station" />
+
+</a>
+
 ### Show some ❤️ by starring this awesome repository!
 
 </div>

@@ -1,0 +1,17 @@
+{
+  "name": "Cansat-Ground-Station",
+  "version": "0.0.1",
+  "description": "Ground Station for Rockets",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/Witty-Wizard/Cansat-Ground-Station.git",
+  "author": "Witty-Wizard <shashankmarch27@gmail.com>",
+  "license": "GPL3",
+  "private": null,
+  "devDependencies": {
+    "electron": "^31.0.2"
+  }
+}
